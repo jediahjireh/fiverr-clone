@@ -1,6 +1,6 @@
 # Fiverr Clone - Next.js Full-Stack Application
 
-A modern, full-stack freelance marketplace built with Next.js 14, featuring the
+A modern, full-stack freelance marketplace built with Next.js 15, featuring the
 App Router, TypeScript, Prisma ORM, NextAuth and Tailwind CSS.
 
 <!-- Table of Contents -->
@@ -54,7 +54,7 @@ App Router, TypeScript, Prisma ORM, NextAuth and Tailwind CSS.
 
 ### Technical Features
 
-- **Next.js 14 App Router**: Modern React framework with server components
+- **Next.js 15 App Router**: Modern React framework with server components
 - **TypeScript**: Full type safety throughout the application
 - **Prisma ORM**: Type-safe database operations with MongoDB
 - **NextAuth.js**: Authentication with JWT strategy
