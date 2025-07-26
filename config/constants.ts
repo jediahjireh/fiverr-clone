@@ -1,7 +1,6 @@
-import { Dot, Globe, Instagram } from "lucide-react";
+import { Instagram } from "lucide-react";
 import { FaFacebook, FaLinkedin, FaPinterest, FaTiktok } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
-import { RxAccessibility } from "react-icons/rx";
 
 export const placeholderImage = "/placeholder.svg";
 

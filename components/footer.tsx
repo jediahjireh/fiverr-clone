@@ -1,9 +1,7 @@
 import Link from "next/link";
 
 import { socialLinks } from "@/config/constants";
-import { Dot, Globe, Instagram } from "lucide-react";
-import { FaFacebook, FaLinkedin, FaPinterest, FaTiktok } from "react-icons/fa";
-import { FaXTwitter } from "react-icons/fa6";
+import { Dot, Globe } from "lucide-react";
 import { RxAccessibility } from "react-icons/rx";
 
 export function Footer() {
